@@ -1,6 +1,6 @@
 #include<stdio.h>
-#include "./math/geometry.c"
+#include "./math/FACTORIAL.c"
 
-void main(){
+void main(){    
     
 }
