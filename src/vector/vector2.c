@@ -47,8 +47,5 @@ float calcVector2(float x, float y, float speed, bool repos, bool gorRepos){
             }                   
         }       
     }    
-    // printf("%i\n", x);
-    // printf("%i\n", y);
-    // printf("%i\n", result);
     return x, y, result;
 }
