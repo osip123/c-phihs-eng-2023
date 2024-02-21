@@ -21,5 +21,8 @@
     <ClCompile Include="src\gravity\GRAVITY.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="src\lineReos\lineSpeed.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
